@@ -6,7 +6,7 @@ void main() {
   ); // Ici, nous avons utilisé MaterialApp pour appliquer le thème Material Design à notre application.
 }
 
-// Avec les stateful widget, nous utilisons : CreateSate a la place de la methode build.
+// Avec les stateful widget, nous utilisons : createSate a la place de la methode build.
 // Le type de retour n'est donc plus Widget mais Sate (Qui symbolyse un état).
 // Précicer le type d'état. (EX: dans notre, il s'agit d'un State de type <HomePage>
 

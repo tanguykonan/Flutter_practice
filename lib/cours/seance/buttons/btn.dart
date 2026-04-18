@@ -10,7 +10,7 @@ void main() {
   runApp(
     MaterialApp(
       theme: ThemeData(
-        colorSchemeSeed: Colors.green, // Définir une couleur par défaut (Boutton etc..)
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple), // Définir une couleur par défaut (Boutton etc..)
         //scaffoldBackgroundColor: Colors.white, // (Fond par defaut scafflold)
       ),
       home: const HomePage(),

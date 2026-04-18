@@ -1,4 +1,4 @@
-// Importation de la bibliothèque Flutter pour les widgets et les fonctionnalités de base
+// Importation de la bibliothèque material pour les themes maderial disign
 import 'package:flutter/material.dart';
 
 void main() {
